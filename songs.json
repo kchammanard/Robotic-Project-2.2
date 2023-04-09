@@ -1,0 +1,16 @@
+{
+    "songs": 
+    {
+        "mary": ["re", "re", "re"], 
+        "twinkle": ["do", "re", "mi", "fa"], 
+        "jingle": ["do", "re", "sol", "fa"]
+    }, 
+    
+    "notes": {
+        "twinkle": ["C","C","G","G","A"]
+    },
+    "playbacks": {
+        
+    }
+}
+
